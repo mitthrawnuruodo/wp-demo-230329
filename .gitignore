@@ -1,21 +1,12 @@
-# -----------------------------------------------------------------
-# .gitignore for WordPress
-# Bare Minimum Git
-# Based on http://ironco.de/bare-minimum-git/
-#
-# -----------------------------------------------------------------
-
-# ignore everything in the root, except the "themes" directory
+# ignore everything (in the root)
 /*
-#!wp-content/themes/
 
-# ignore specific themes
-#wp-content/themes/index.php
-#wp-content/themes/twenty*/
-#wp-content/themes/hexa/
+# except specific themes
+
 !wp-content/themes/hexa-child/
 
-
-# ignore node/grunt dependency directories
+# ignore node_modules
 node_modules/
-.DS_Store
+
+# For Mac: ignore .DS_Store files
+#.DS_Store
