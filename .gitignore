@@ -1,11 +1,6 @@
-# ignore everything (in the root)
+# ignore everything (in the root), except the README
 /*
+!README.md
 
 # except specific themes
 !wp-content/themes/hexa-child/
-
-# ignore node_modules
-node_modules/
-
-# For Mac: ignore .DS_Store files
-.DS_Store
