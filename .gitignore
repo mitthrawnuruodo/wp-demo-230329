@@ -88,13 +88,15 @@ Thumbs.db
 wp-content/*
 !wp-content/mu-plugins/
 wp-content/plugins/
-wp-content/themes/
+!wp-content/themes/
 
 # ignore these plugins
 wp-content/plugins/hello.php
 
 # ignore specific themes
+wp-content/themes/index.php
 wp-content/themes/twenty*/
+wp-content/themes/hexa/
 
 # ignore node/grunt dependency directories
 node_modules/

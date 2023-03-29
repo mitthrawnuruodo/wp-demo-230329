@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Hexa Child
+ Theme URI:    
+ Description:  Hexa Child Theme for testing purposes
+ Author:       Xiaolasse
+ Author URI:   
+ Template:     hexa
+ Version:      0.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         dill
+ Text Domain:  hexa-child
+*/
+
+body {
+    background: #fed;
+    color: darkgreen;
+}
