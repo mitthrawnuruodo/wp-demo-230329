@@ -3,5 +3,5 @@
 !README.md
 
 # except specific themes
-!wp-content/themes/hexa-child
-!wp-content/themes/storefront-child
+!wp-content/themes/hexa-child/
+!wp-content/themes/storefront-child/
