@@ -3,4 +3,4 @@
 !README.md
 
 # except specific themes
-!wp-content/themes
+!wp-content/themes/*-child
