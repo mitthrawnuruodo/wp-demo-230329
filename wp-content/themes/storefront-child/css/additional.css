@@ -1,0 +1,12 @@
+.entry-title, .woocommerce-loop-product__title {
+    color: teal;
+}
+
+#woocommerce-product-search-field-0 {
+    background-color: peachpuff;
+}
+
+p.site-description {
+    color: violet;
+}
+
